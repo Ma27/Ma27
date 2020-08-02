@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Ma27/Ma27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is [Maximilian Bosch](https://mbosch.me/), I study *Informatics* at [Karlsruhe Institute of Technology](https://www.kit.edu/) and I'm employed
+as software developer @mayflower in Munich.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a lot of stuff related to the GNU/Linux distribution [NixOS](https://nixos.org/).
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) & [Haskell](https://www.haskell.org/)
+- 💬 Ask me about anything related to **Nix** :P
+- 📫 How to reach me: [@_Ma27_](https://twitter.com/_Ma27_) at Twitter, hi@mbosch.me or somewhere on GitHub
+- 😄 Pronouns: he/him, they/them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+
+![Ma27's github stats](https://github-readme-stats.vercel.app/api?username=Ma27)
+
