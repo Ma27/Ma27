@@ -11,5 +11,5 @@ as software developer at [Mayflower GmbH](https://mayflower.de/) in Munich.
 
 ### Stats
 
-![Ma27's github stats](https://github-readme-stats.vercel.app/api?username=Ma27)
+![Ma27's github stats](https://github-readme-stats.vercel.app/api?username=Ma27&theme=nightowl)
 
